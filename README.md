@@ -7,7 +7,7 @@ In this application, I simulated a banking application that I assumed consisted 
 1) Jonas Schmedtmann => user:js pin:1111
 2) Jessica Davis=>  user:js pin:2222
 3) Steven Thomas Williams => user:stw pin:3333
-4) Sarah Smith => user:ss pin:444
+4) Sarah Smith => user:ss pin:4444
 (With this information you can login and see the user interface.)
 
 In this application, these 4 people can transfer money between them or can get a loan. The UI will be updated immediately afterwards. 
